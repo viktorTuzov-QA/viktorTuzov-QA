@@ -109,7 +109,7 @@ footer {
 
 
 
-.button-link: {
+.button-link {
   box-sizing: border-box;
   display: flex;
   flex-direction: row;
@@ -132,7 +132,7 @@ footer {
 
 .button-link:hover {
 
-  background: #ea0810;
+  background: #383738;
  
 
   color: #010d17;
